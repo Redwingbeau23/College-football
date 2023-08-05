@@ -1344,7 +1344,7 @@
         },
         {
           "abbreviation": "NEB",
-          "prestige": 85",
+          "prestige": "85",
           "hexColor": "#E41C38",
           "offCoordinator": {
             "contractLength": "3",

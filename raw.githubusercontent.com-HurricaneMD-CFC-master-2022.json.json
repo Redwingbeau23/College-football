@@ -4,7 +4,7 @@
       "confTeams": [
         {
           "abbreviation": "BAMA",
-          "prestige": "99",
+          "prestige": "95",
           "hexColor": "#9E1B32",
           "offCoordinator": {
             "contractLength": "3",
@@ -55,7 +55,7 @@
         },
         {
           "abbreviation": "UF",
-          "prestige": "85",
+          "prestige": "87",
           "hexColor": "#0021A5",
           "offCoordinator": {
             "contractLength": "3",

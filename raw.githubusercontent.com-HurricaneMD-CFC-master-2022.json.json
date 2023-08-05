@@ -4657,7 +4657,7 @@
       "confTeams": [
         {
           "abbreviation": "MRSH",
-          "prestige": "50",
+          "prestige": "20",
           "hexColor": "#00B140",
           "offCoordinator": {
             "contractLength": "3",
@@ -4708,7 +4708,7 @@
         },
         {
           "abbreviation": "UAB",
-          "prestige": "60",
+          "prestige": "20",
           "hexColor": "#006341",
           "offCoordinator": {
             "contractLength": "3",
@@ -4759,7 +4759,7 @@
         },
         {
           "abbreviation": "LTU",
-          "prestige": "55",
+          "prestige": "20",
           "hexColor": "#002F8B",
           "offCoordinator": {
             "contractLength": "3",
@@ -4810,7 +4810,7 @@
         },
         {
           "abbreviation": "FAU",
-          "prestige": "55",
+          "prestige": "20",
           "hexColor": "#CC0000",
           "offCoordinator": {
             "contractLength": "3",
@@ -4861,7 +4861,7 @@
         },
         {
           "abbreviation": "CHAR",
-          "prestige": "40",
+          "prestige": "20",
           "hexColor": "#046A38",
           "offCoordinator": {
             "contractLength": "3",
@@ -4912,7 +4912,7 @@
         },
         {
           "abbreviation": "WKU",
-          "prestige": "39",
+          "prestige": "20",
           "hexColor": "#C60C30",
           "offCoordinator": {
             "contractLength": "3",
@@ -4963,7 +4963,7 @@
         },
         {
           "abbreviation": "FIU",
-          "prestige": "30",
+          "prestige": "20",
           "hexColor": "#081E3F",
           "offCoordinator": {
             "contractLength": "3",
@@ -5014,7 +5014,7 @@
         },
         {
           "abbreviation": "UTSA",
-          "prestige": "40",
+          "prestige": "20",
           "hexColor": "#F15A22",
           "offCoordinator": {
             "contractLength": "3",
@@ -5065,7 +5065,7 @@
         },
         {
           "abbreviation": "SMS",
-          "prestige": "35",
+          "prestige": "20",
           "hexColor": "#FFAB00",
           "offCoordinator": {
             "contractLength": "3",
@@ -5116,7 +5116,7 @@
         },
         {
           "abbreviation": "MTSU",
-          "prestige": "30",
+          "prestige": "20",
           "hexColor": "#0066CC",
           "offCoordinator": {
             "contractLength": "3",
@@ -5167,14 +5167,14 @@
         }
       ],
       "confFullName": "Conference USA",
-      "confPrestige": "41",
+      "confPrestige": "20",
       "confName": "CUSA"
     },
     {
       "confTeams": [
         {
           "abbreviation": "APST",
-          "prestige": "68",
+          "prestige": "20",
           "hexColor": "#FFCC00",
           "offCoordinator": {
             "contractLength": "3",
@@ -5225,7 +5225,7 @@
         },
         {
           "abbreviation": "ULL",
-          "prestige": "55",
+          "prestige": "20",
           "hexColor": "#CE181E",
           "offCoordinator": {
             "contractLength": "3",
@@ -5276,7 +5276,7 @@
         },
         {
           "abbreviation": "CCU",
-          "prestige": "50",
+          "prestige": "20",
           "hexColor": "#006F71",
           "offCoordinator": {
             "contractLength": "3",
@@ -5327,7 +5327,7 @@
         },
         {
           "abbreviation": "GST",
-          "prestige": "47",
+          "prestige": "20",
           "hexColor": "#0039A6",
           "offCoordinator": {
             "contractLength": "3",
@@ -5378,7 +5378,7 @@
         },
         {
           "abbreviation": "GSU",
-          "prestige": "49",
+          "prestige": "20",
           "hexColor": "#011E41",
           "offCoordinator": {
             "contractLength": "3",
@@ -5429,7 +5429,7 @@
         },
         {
           "abbreviation": "TROY",
-          "prestige": "45",
+          "prestige": "20",
           "hexColor": "#8A2432",
           "offCoordinator": {
             "contractLength": "1",
@@ -5480,7 +5480,7 @@
         },
         {
           "abbreviation": "ARST",
-          "prestige": "40",
+          "prestige": "20",
           "hexColor": "#CC092F",
           "offCoordinator": {
             "contractLength": "3",
@@ -5531,7 +5531,7 @@
         },
         {
           "abbreviation": "TXST",
-          "prestige": "34",
+          "prestige": "20",
           "hexColor": "#501214",
           "offCoordinator": {
             "contractLength": "3",
@@ -5582,7 +5582,7 @@
         },
         {
           "abbreviation": "USA",
-          "prestige": "30",
+          "prestige": "20",
           "hexColor": "#00205B",
           "offCoordinator": {
             "contractLength": "3",
@@ -5684,14 +5684,14 @@
         }
       ],
       "confFullName": "Sun Belt Conference",
-      "confPrestige": "44",
+      "confPrestige": "20",
       "confName": "SBC"
     },
     {
       "confTeams": [
         {
           "abbreviation": "CMU",
-          "prestige": "45",
+          "prestige": "20",
           "hexColor": "#6A0032",
           "offCoordinator": {
             "contractLength": "3",
@@ -5742,7 +5742,7 @@
         },
         {
           "abbreviation": "BUFF",
-          "prestige": "45",
+          "prestige": "20",
           "hexColor": "#005BBB",
           "offCoordinator": {
             "contractLength": "3",
@@ -5793,7 +5793,7 @@
         },
         {
           "abbreviation": "TOL",
-          "prestige": "45",
+          "prestige": "20",
           "hexColor": "#15397F",
           "offCoordinator": {
             "contractLength": "3",
@@ -5844,7 +5844,7 @@
         },
         {
           "abbreviation": "WMU",
-          "prestige": "49",
+          "prestige": "20",
           "hexColor": "#6C4023",
           "offCoordinator": {
             "contractLength": "3",
@@ -5895,7 +5895,7 @@
         },
         {
           "abbreviation": "OHIO",
-          "prestige": "35",
+          "prestige": "20",
           "hexColor": "#00694E",
           "offCoordinator": {
             "contractLength": "3",
@@ -5946,7 +5946,7 @@
         },
         {
           "abbreviation": "MU",
-          "prestige": "40",
+          "prestige": "20",
           "hexColor": "#B61E2E",
           "offCoordinator": {
             "contractLength": "3",
@@ -5997,7 +5997,7 @@
         },
         {
           "abbreviation": "BALL",
-          "prestige": "50",
+          "prestige": "20",
           "hexColor": "#002664",
           "offCoordinator": {
             "contractLength": "3",
@@ -6048,7 +6048,7 @@
         },
         {
           "abbreviation": "EMU",
-          "prestige": "35",
+          "prestige": "20",
           "hexColor": "#006633",
           "offCoordinator": {
             "contractLength": "1",
@@ -6099,7 +6099,7 @@
         },
         {
           "abbreviation": "Akron",
-          "prestige": "30",
+          "prestige": "20",
           "hexColor": "#041E42",
           "offCoordinator": {
             "contractLength": "3",
@@ -6201,7 +6201,7 @@
         }
       ],
       "confFullName": "Mid American Conference",
-      "confPrestige": "40",
+      "confPrestige": "20",
       "confName": "MAC"
     }
   ],

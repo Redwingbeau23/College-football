@@ -6161,7 +6161,7 @@
             "ratPot": "80",
             "hometown": "Franklin",
             "ratTalent": "79",
-            "baselinePrestige": "50",
+            "baselinePrestige": "25",
             "coachingAbility": "60",
             "name": "Terry Malone",
             "contractYear": "0"
@@ -6175,7 +6175,7 @@
             "ratPot": "66",
             "hometown": "Fall Rock",
             "ratTalent": "92",
-            "baselinePrestige": "50",
+            "baselinePrestige": "25",
             "coachingAbility": "65",
             "name": "Eric Lewis",
             "contractYear": "0"
@@ -6192,12 +6192,12 @@
             "ratPot": "70",
             "hometown": "Ballentine",
             "ratTalent": "88",
-            "baselinePrestige": "50",
+            "baselinePrestige": "25",
             "name": "Scot Loeffler",
             "contractYear": "0"
           },
           "name": "Bowling Green Falcons",
-          "state": "Ohio"
+          "state": "Alaska"
         }
       ],
       "confFullName": "Mid American Conference",

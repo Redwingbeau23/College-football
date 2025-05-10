@@ -2126,7 +2126,7 @@
         },
         {
           "abbreviation": "WASH",
-          "prestige": "73",
+          "prestige": "75",
           "hexColor": "#4B2E83",
           "offCoordinator": {
             "contractLength": "3",
@@ -2177,7 +2177,7 @@
         },
         {
           "abbreviation": "USC",
-          "prestige": "88",
+          "prestige": "85",
           "hexColor": "#990000",
           "offCoordinator": {
             "contractLength": "3",
